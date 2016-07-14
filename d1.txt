@@ -1,3 +1,2 @@
 d1
 master(git bash)
-master(github)
